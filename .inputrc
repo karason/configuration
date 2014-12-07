@@ -1,0 +1,6 @@
+set editing-mode vi
+set keymap vi-command
+
+"K": "k\r"
+"q": "ddiexit"
+";": "0i#\r"
